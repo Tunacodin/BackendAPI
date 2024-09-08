@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    internal interface IProductDal
+    public interface IProductDal
     {
+
     }
 }
